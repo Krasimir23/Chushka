@@ -460,8 +460,6 @@ C:\Users\Student\Desktop\Krasimir i Shumanski\Chushka\obj\Debug\net5.0\scopedcss
 C:\Users\Student\Desktop\Krasimir i Shumanski\Chushka\obj\Debug\net5.0\ASPChushka.TagHelpers.input.cache
 C:\Users\Student\Desktop\Krasimir i Shumanski\Chushka\obj\Debug\net5.0\ASPChushka.TagHelpers.output.cache
 C:\Users\Student\Desktop\Krasimir i Shumanski\Chushka\obj\Debug\net5.0\ASPChushka.RazorCoreGenerate.cache
-C:\Users\Student\Desktop\Krasimir i Shumanski\Chushka\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Student\Desktop\Krasimir i Shumanski\Chushka\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Student\Desktop\Krasimir i Shumanski\Chushka\obj\Debug\net5.0\Razor\Views\Orders\Create.cshtml.g.cs
 C:\Users\Student\Desktop\Krasimir i Shumanski\Chushka\obj\Debug\net5.0\Razor\Views\Orders\Create1.cshtml.g.cs
 C:\Users\Student\Desktop\Krasimir i Shumanski\Chushka\obj\Debug\net5.0\Razor\Views\Orders\Delete.cshtml.g.cs
