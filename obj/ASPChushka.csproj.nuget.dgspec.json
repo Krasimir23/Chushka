@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Chushka\\ASPCHUSKA\\ASPChushka.csproj": {}
+    "D:\\KRASIMIRSHUMA\\Chushka\\ASPChushka.csproj": {}
   },
   "projects": {
-    "E:\\Chushka\\ASPCHUSKA\\ASPChushka.csproj": {
+    "D:\\KRASIMIRSHUMA\\Chushka\\ASPChushka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Chushka\\ASPCHUSKA\\ASPChushka.csproj",
+        "projectUniqueName": "D:\\KRASIMIRSHUMA\\Chushka\\ASPChushka.csproj",
         "projectName": "ASPChushka",
-        "projectPath": "E:\\Chushka\\ASPCHUSKA\\ASPChushka.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Chushka\\ASPCHUSKA\\obj\\",
+        "projectPath": "D:\\KRASIMIRSHUMA\\Chushka\\ASPChushka.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "D:\\KRASIMIRSHUMA\\Chushka\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
