@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lci96qR/6bZkZmiNBENcMoMad6HrWstlBs38uECbKZym8rfPRvMfle4I9w2pvbqelhWoyaZRBZ3q0IPjObJJMg==",
+  "dgSpecHash": "t38FyYrEOv4HlDAi9uOb3ECex4QfR3Pw/ICN4cjY7wvIsc0oxLNAKubb8/odmIAzYYleakniThnM3Kk+lrP9PQ==",
   "success": true,
-  "projectFilePath": "D:\\KRASIMIRSHUMA\\Chushka\\ASPChushka.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\Krasimir i Shumanski\\Chushka\\ASPChushka.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

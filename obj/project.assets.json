@@ -7154,11 +7154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KRASIMIRSHUMA\\Chushka\\ASPChushka.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Desktop\\Krasimir i Shumanski\\Chushka\\ASPChushka.csproj",
       "projectName": "ASPChushka",
-      "projectPath": "D:\\KRASIMIRSHUMA\\Chushka\\ASPChushka.csproj",
+      "projectPath": "C:\\Users\\Student\\Desktop\\Krasimir i Shumanski\\Chushka\\ASPChushka.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "D:\\KRASIMIRSHUMA\\Chushka\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Desktop\\Krasimir i Shumanski\\Chushka\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
