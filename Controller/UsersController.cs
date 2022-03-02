@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ASPChushka.Data;
 
-namespace ASPChushka.Controller
+namespace ASPChushka
 {
     public class UsersController : Controller
     {
